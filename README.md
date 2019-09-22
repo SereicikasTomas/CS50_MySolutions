@@ -1,7 +1,7 @@
 CS50 Solutions 2018
 ======================
 
-These are my solutions to Harvards CS50 course problems. I'm new to the course so more solutions will be added soon.
+These are my solutions to Harvards CS50 course problems.
 
 ## List
 
